@@ -1,6 +1,11 @@
 {
   "dependencies": {
-    "@clerk/nextjs": "^6.19.0",
-    "@clerk/themes": "^2.2.41"
+    "@clerk/clerk-sdk-node": "^4.13.23",
+    "@clerk/nextjs": "^6.19.2",
+    "@clerk/themes": "^2.2.41",
+    "add": "^2.0.6",
+    "button": "^1.1.1",
+    "shadcn": "^2.5.0",
+    "tailwindcss-animate": "^1.0.7"
   }
 }
